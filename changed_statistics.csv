@@ -1,129 +1,170 @@
 ,wdpaid,en_name,column,value
-0,26653,Tsingy de Bemaraha Strict Nature Reserve,outlook,Good -> Good with some concerns
-1,26653,Tsingy de Bemaraha Strict Nature Reserve,overall_threat,Low Threat -> High Threat
-2,26653,Tsingy de Bemaraha Strict Nature Reserve,current_threat,Low Threat -> High Threat
-3,26653,Tsingy de Bemaraha Strict Nature Reserve,potential_threat,Data Deficient -> Low Threat
-4,26653,Tsingy de Bemaraha Strict Nature Reserve,prot_mgmt,Effective -> nan
-5,26653,Tsingy de Bemaraha Strict Nature Reserve,wh_value,Low Concern -> Good
-6,26653,Tsingy de Bemaraha Strict Nature Reserve,biodiv_value,nan -> Good
-7,26653,Tsingy de Bemaraha Strict Nature Reserve,biodiv_trend,nan -> Stable
-8,26653,Tsingy de Bemaraha Strict Nature Reserve,language,1 -> 2
-9,61608,Rwenzori Mountains National Park,prot_mgmt,Effective -> Some Concern
-10,902347,Cape Floral Region Protected Areas,outlook,Good with some concerns -> Significant Concern
-11,902347,Cape Floral Region Protected Areas,prot_mgmt,Effective -> Some Concern
-12,902347,Cape Floral Region Protected Areas,wh_value,Low Concern -> High Concern
-13,902347,Cape Floral Region Protected Areas,wh_trend,Stable -> Deteriorating
-14,17761,Kilimanjaro National Park,biodiv_value,Data Deficient -> Low Concern
-15,17761,Kilimanjaro National Park,biodiv_trend,Data Deficient -> Deteriorating
-16,4999,Tassili n'Ajjer,overall_threat,High Threat -> Data Deficient
-17,4999,Tassili n'Ajjer,current_threat,High Threat -> Data Deficient
-18,4999,Tassili n'Ajjer,wh_value,Low Concern -> Good
-19,2010,Ngorongoro Conservation Area,biodiv_value,nan -> Low Concern
-20,2010,Ngorongoro Conservation Area,biodiv_trend,nan -> Data Deficient
-21,902487,Wadi Al-Hitan (Whale Valley),outlook,Good -> Good with some concerns
-22,67727,Aïr and Ténéré Natural Reserves,potential_threat,Data Deficient -> High Threat
-23,67727,Aïr and Ténéré Natural Reserves,prot_mgmt,Serious Concern -> Some Concern
-24,67727,Aïr and Ténéré Natural Reserves,language,1 -> 2
-25,4322,Ichkeul National Park,language,2 -> 1
-26,168242,East Rennell,outlook,Critical -> Significant Concern
-27,168242,East Rennell,wh_trend,Deteriorating -> Data Deficient
-28,903130,Jeju Volcanic Island and Lava Tubes,potential_threat,Very Low Threat -> Low Threat
-29,903130,Jeju Volcanic Island and Lava Tubes,biodiv_value,nan -> Good
-30,903130,Jeju Volcanic Island and Lava Tubes,biodiv_trend,nan -> Stable
-31,145586,Lake Turkana National Parks,wh_trend,Data Deficient -> Deteriorating
-32,555542337,Wadi Rum Protected Area,prot_mgmt,Effective -> Some Concern
-33,555542337,Wadi Rum Protected Area,wh_value,Low Concern -> Good
-34,555542337,Wadi Rum Protected Area,wh_trend,Data Deficient -> Stable
-35,555542337,Wadi Rum Protected Area,biodiv_trend,Data Deficient -> Stable
-36,903062,Rainforests of the Atsinanana,language,1 -> 2
-37,903138,Socotra Archipelago,potential_threat,Very High Threat -> High Threat
-38,903138,Socotra Archipelago,prot_mgmt,Some Concern -> Serious Concern
-39,903138,Socotra Archipelago,biodiv_value,nan -> High Concern
-40,903138,Socotra Archipelago,biodiv_trend,nan -> Deteriorating
-41,2006,Simien National Park,wh_trend,Data Deficient -> Improving
-42,9628,Vallée de Mai Nature Reserve,wh_trend,Data Deficient -> Stable
-43,902480,Dong Phayayen-Khao Yai Forest Complex,outlook,Critical -> Significant Concern
-44,902480,Dong Phayayen-Khao Yai Forest Complex,overall_threat,Very High Threat -> High Threat
-45,902480,Dong Phayayen-Khao Yai Forest Complex,potential_threat,Data Deficient -> High Threat
-46,902480,Dong Phayayen-Khao Yai Forest Complex,wh_value,Critical -> High Concern
-47,902480,Dong Phayayen-Khao Yai Forest Complex,wh_trend,Data Deficient -> Deteriorating
-48,12209,Škocjan Caves,outlook,Good -> Significant Concern
-49,12209,Škocjan Caves,overall_threat,Low Threat -> High Threat
-50,12209,Škocjan Caves,current_threat,Low Threat -> High Threat
-51,12209,Škocjan Caves,potential_threat,High Threat -> Very High Threat
-52,12209,Škocjan Caves,prot_mgmt,Effective -> Some Concern
-53,12209,Škocjan Caves,wh_value,Good -> Low Concern
-54,12209,Škocjan Caves,wh_trend,Data Deficient -> Deteriorating
-55,555512006,"Pitons, cirques and remparts of Reunion Island",outlook,Good with some concerns -> nan
-56,555512006,"Pitons, cirques and remparts of Reunion Island",overall_threat,High Threat -> nan
-57,555512006,"Pitons, cirques and remparts of Reunion Island",current_threat,High Threat -> nan
-58,555512006,"Pitons, cirques and remparts of Reunion Island",potential_threat,High Threat -> nan
-59,555512006,"Pitons, cirques and remparts of Reunion Island",prot_mgmt,Effective -> nan
-60,555512006,"Pitons, cirques and remparts of Reunion Island",wh_value,Low Concern -> nan
-61,555512006,"Pitons, cirques and remparts of Reunion Island",wh_trend,Stable -> nan
-62,555512006,"Pitons, cirques and remparts of Reunion Island",language,1 -> 2
-63,5005,Selous Game Reserve,biodiv_value,nan -> Data Deficient
-64,5005,Selous Game Reserve,biodiv_trend,nan -> Data Deficient
-65,198303,"Ibiza, Biodiversity and Culture",outlook,Significant Concern -> nan
-66,198303,"Ibiza, Biodiversity and Culture",overall_threat,High Threat -> nan
-67,198303,"Ibiza, Biodiversity and Culture",current_threat,High Threat -> nan
-68,198303,"Ibiza, Biodiversity and Culture",potential_threat,High Threat -> nan
-69,198303,"Ibiza, Biodiversity and Culture",prot_mgmt,Some Concern -> nan
-70,198303,"Ibiza, Biodiversity and Culture",wh_value,High Concern -> nan
-71,198303,"Ibiza, Biodiversity and Culture",wh_trend,Deteriorating -> nan
-72,198303,"Ibiza, Biodiversity and Culture",language,1 -> 3
-73,93292,Caves of Aggtelek Karst and Slovak Karst,outlook,Good -> Good with some concerns
-74,93292,Caves of Aggtelek Karst and Slovak Karst,current_threat,Very Low Threat -> Low Threat
-75,26689,Canadian Rocky Mountain Parks,outlook,Good with some concerns -> Significant Concern
-76,26689,Canadian Rocky Mountain Parks,overall_threat,Low Threat -> High Threat
-77,26689,Canadian Rocky Mountain Parks,current_threat,Low Threat -> High Threat
-78,26689,Canadian Rocky Mountain Parks,prot_mgmt,Effective -> Serious Concern
-79,26689,Canadian Rocky Mountain Parks,wh_value,Good -> High Concern
-80,26689,Canadian Rocky Mountain Parks,wh_trend,Stable -> Deteriorating
-81,26689,Canadian Rocky Mountain Parks,biodiv_value,Low Concern -> High Concern
-82,26689,Canadian Rocky Mountain Parks,biodiv_trend,Stable -> Deteriorating
-83,61609,Bwindi Impenetrable National Park,biodiv_value,nan -> Data Deficient
-84,61609,Bwindi Impenetrable National Park,biodiv_trend,nan -> Stable
-85,902483,Vredefort Dome,overall_threat,High Threat -> Low Threat
-86,902483,Vredefort Dome,potential_threat,High Threat -> Low Threat
-87,198299,Puerto-Princesa Subterranean River National Park,potential_threat,High Threat -> Low Threat
-88,902479,Coiba National Park and its Special Zone of Marine Protection,overall_threat,High Threat -> Very High Threat
-89,902479,Coiba National Park and its Special Zone of Marine Protection,current_threat,High Threat -> Very High Threat
-90,93291,Carlsbad Caverns National Park,biodiv_value,High Concern -> Low Concern
-91,93291,Carlsbad Caverns National Park,biodiv_trend,Data Deficient -> Improving
-92,93295,Waterton Glacier International Peace Park,biodiv_value,nan -> Low Concern
-93,93295,Waterton Glacier International Peace Park,biodiv_trend,nan -> Improving
-94,2005,Nahanni National Park,overall_threat,Low Threat -> High Threat
-95,2005,Nahanni National Park,prot_mgmt,Effective -> Some Concern
-96,9623,Historic Sanctuary of Machu Picchu,outlook,Significant Concern -> nan
-97,9623,Historic Sanctuary of Machu Picchu,overall_threat,Very High Threat -> nan
-98,9623,Historic Sanctuary of Machu Picchu,current_threat,Very High Threat -> nan
-99,9623,Historic Sanctuary of Machu Picchu,potential_threat,Very High Threat -> nan
-100,9623,Historic Sanctuary of Machu Picchu,prot_mgmt,Some Concern -> nan
-101,9623,Historic Sanctuary of Machu Picchu,wh_value,High Concern -> nan
-102,9623,Historic Sanctuary of Machu Picchu,wh_trend,Deteriorating -> nan
-103,9623,Historic Sanctuary of Machu Picchu,biodiv_value,High Concern -> nan
-104,9623,Historic Sanctuary of Machu Picchu,biodiv_trend,Deteriorating -> nan
-105,2004,Dinosaur Provincial Park,potential_threat,Low Threat -> Very Low Threat
-106,2004,Dinosaur Provincial Park,wh_value,Low Concern -> Good
-107,2004,Dinosaur Provincial Park,biodiv_value,Low Concern -> Good
-108,12896,Henderson Island,prot_mgmt,Effective -> Some Concern
-109,2013,Yellowstone National Park,potential_threat,High Threat -> Low Threat
-110,2013,Yellowstone National Park,biodiv_value,High Concern -> Good
-111,2013,Yellowstone National Park,biodiv_trend,Data Deficient -> Improving
-112,10902,Wood Buffalo National Park,outlook,Good with some concerns -> Significant Concern
-113,10902,Wood Buffalo National Park,overall_threat,Low Threat -> High Threat
-114,10902,Wood Buffalo National Park,potential_threat,Low Threat -> High Threat
-115,10902,Wood Buffalo National Park,prot_mgmt,Effective -> Serious Concern
-116,10902,Wood Buffalo National Park,wh_value,Low Concern -> High Concern
-117,10902,Wood Buffalo National Park,wh_trend,Stable -> Deteriorating
-118,198291,Península Valdés,outlook,Good with some concerns -> nan
-119,198291,Península Valdés,overall_threat,Low Threat -> nan
-120,198291,Península Valdés,current_threat,Low Threat -> nan
-121,198291,Península Valdés,potential_threat,Low Threat -> nan
-122,198291,Península Valdés,prot_mgmt,Some Concern -> nan
-123,198291,Península Valdés,wh_value,Low Concern -> nan
-124,198291,Península Valdés,wh_trend,Stable -> nan
-125,198291,Península Valdés,biodiv_value,High Concern -> nan
-126,198291,Península Valdés,biodiv_trend,Stable -> nan
-127,5004,Aldabra Atoll,language,2 -> 1
+0,2010,Ngorongoro Conservation Area,biodiv_value,nan -> Low Concern
+1,2010,Ngorongoro Conservation Area,biodiv_trend,nan -> Data Deficient
+2,17761,Kilimanjaro National Park,biodiv_value,Data Deficient -> Low Concern
+3,17761,Kilimanjaro National Park,biodiv_trend,Data Deficient -> Deteriorating
+4,902487,Wadi Al-Hitan (Whale Valley),outlook,Good -> Good with some concerns
+5,67727,Aïr and Ténéré Natural Reserves,potential_threat,Data Deficient -> High Threat
+6,67727,Aïr and Ténéré Natural Reserves,prot_mgmt,Serious Concern -> Some Concern
+7,67727,Aïr and Ténéré Natural Reserves,language,1 -> 2
+8,61608,Rwenzori Mountains National Park,prot_mgmt,Effective -> Some Concern
+9,4322,Ichkeul National Park,language,2 -> 1
+10,26653,Tsingy de Bemaraha Strict Nature Reserve,outlook,Good -> Good with some concerns
+11,26653,Tsingy de Bemaraha Strict Nature Reserve,overall_threat,Low Threat -> High Threat
+12,26653,Tsingy de Bemaraha Strict Nature Reserve,current_threat,Low Threat -> High Threat
+13,4328,Kahuzi-Biega National Park,wh_trend,Data Deficient -> Deteriorating
+14,902347,Cape Floral Region Protected Areas,outlook,Good with some concerns -> Significant Concern
+15,902347,Cape Floral Region Protected Areas,prot_mgmt,Effective -> Some Concern
+16,902347,Cape Floral Region Protected Areas,wh_trend,Stable -> Deteriorating
+17,168242,East Rennell,outlook,Critical -> Significant Concern
+18,168242,East Rennell,wh_trend,Deteriorating -> Data Deficient
+19,900630,Cerrado Protected Areas: Chapada dos Veadeiros and Emas National Parks,prot_mgmt,Serious Concern -> Some Concern
+20,903130,Jeju Volcanic Island and Lava Tubes,potential_threat,Very Low Threat -> Low Threat
+21,903130,Jeju Volcanic Island and Lava Tubes,biodiv_value,nan -> Good
+22,903130,Jeju Volcanic Island and Lava Tubes,biodiv_trend,nan -> Stable
+23,145586,Lake Turkana National Parks,wh_trend,Data Deficient -> Deteriorating
+24,903062,Rainforests of the Atsinanana,language,1 -> 2
+25,555542337,Wadi Rum Protected Area,prot_mgmt,Effective -> Some Concern
+26,555542337,Wadi Rum Protected Area,wh_value,Low Concern -> Good
+27,555542337,Wadi Rum Protected Area,wh_trend,Data Deficient -> Stable
+28,555542337,Wadi Rum Protected Area,biodiv_trend,Data Deficient -> Stable
+29,5005,Selous Game Reserve,biodiv_value,nan -> Data Deficient
+30,5005,Selous Game Reserve,biodiv_trend,nan -> Data Deficient
+31,903138,Socotra Archipelago,potential_threat,Very High Threat -> High Threat
+32,903138,Socotra Archipelago,prot_mgmt,Some Concern -> Serious Concern
+33,903138,Socotra Archipelago,biodiv_value,nan -> High Concern
+34,903138,Socotra Archipelago,biodiv_trend,nan -> Deteriorating
+35,2006,Simien National Park,wh_trend,Data Deficient -> Improving
+36,9628,Vallée de Mai Nature Reserve,wh_trend,Data Deficient -> Stable
+37,2017,Virunga National Park,current_threat,High Threat -> Very High Threat
+38,902480,Dong Phayayen-Khao Yai Forest Complex,outlook,Critical -> Significant Concern
+39,902480,Dong Phayayen-Khao Yai Forest Complex,overall_threat,Very High Threat -> High Threat
+40,902480,Dong Phayayen-Khao Yai Forest Complex,current_threat,Very High Threat -> High Threat
+41,902480,Dong Phayayen-Khao Yai Forest Complex,potential_threat,Data Deficient -> High Threat
+42,902480,Dong Phayayen-Khao Yai Forest Complex,prot_mgmt,Serious Concern -> Some Concern
+43,902480,Dong Phayayen-Khao Yai Forest Complex,wh_value,Critical -> High Concern
+44,902480,Dong Phayayen-Khao Yai Forest Complex,wh_trend,Data Deficient -> Stable
+45,555512002,Phoenix Islands Protected Area,potential_threat,Low Threat -> High Threat
+46,555512002,Phoenix Islands Protected Area,biodiv_value,Good -> Data Deficient
+47,555512002,Phoenix Islands Protected Area,biodiv_trend,Improving -> Data Deficient
+48,2015,Natural and Cultural Heritage of the Ohrid region,biodiv_value,High Concern -> Low Concern
+49,2015,Natural and Cultural Heritage of the Ohrid region,biodiv_trend,Data Deficient -> Stable
+50,555512006,"Pitons, cirques and remparts of Reunion Island",outlook,Good with some concerns -> nan
+51,555512006,"Pitons, cirques and remparts of Reunion Island",overall_threat,High Threat -> nan
+52,555512006,"Pitons, cirques and remparts of Reunion Island",current_threat,High Threat -> nan
+53,555512006,"Pitons, cirques and remparts of Reunion Island",potential_threat,High Threat -> nan
+54,555512006,"Pitons, cirques and remparts of Reunion Island",prot_mgmt,Effective -> nan
+55,555512006,"Pitons, cirques and remparts of Reunion Island",wh_value,Low Concern -> nan
+56,555512006,"Pitons, cirques and remparts of Reunion Island",wh_trend,Stable -> nan
+57,555512006,"Pitons, cirques and remparts of Reunion Island",language,1 -> 2
+58,903139,Surtsey,potential_threat,Very Low Threat -> Low Threat
+59,903139,Surtsey,prot_mgmt,Highly Effective -> Effective
+60,903139,Surtsey,biodiv_value,nan -> Good
+61,903139,Surtsey,biodiv_trend,nan -> Improving
+62,12209,Škocjan Caves,outlook,Good -> Significant Concern
+63,12209,Škocjan Caves,overall_threat,Low Threat -> High Threat
+64,12209,Škocjan Caves,current_threat,Low Threat -> High Threat
+65,12209,Škocjan Caves,potential_threat,High Threat -> Very High Threat
+66,12209,Škocjan Caves,prot_mgmt,Effective -> Some Concern
+67,12209,Škocjan Caves,wh_value,Good -> Low Concern
+68,12209,Škocjan Caves,wh_trend,Data Deficient -> Deteriorating
+69,555547988,Sangha Trinational,wh_trend,Data Deficient -> Stable
+70,9632,Great Smoky Mountains National Park,potential_threat,High Threat -> Low Threat
+71,93292,Caves of Aggtelek Karst and Slovak Karst,outlook,Good -> Good with some concerns
+72,93292,Caves of Aggtelek Karst and Slovak Karst,current_threat,Very Low Threat -> Low Threat
+73,198303,"Ibiza, Biodiversity and Culture",outlook,Significant Concern -> nan
+74,198303,"Ibiza, Biodiversity and Culture",overall_threat,High Threat -> nan
+75,198303,"Ibiza, Biodiversity and Culture",current_threat,High Threat -> nan
+76,198303,"Ibiza, Biodiversity and Culture",potential_threat,High Threat -> nan
+77,198303,"Ibiza, Biodiversity and Culture",prot_mgmt,Some Concern -> nan
+78,198303,"Ibiza, Biodiversity and Culture",wh_value,High Concern -> nan
+79,198303,"Ibiza, Biodiversity and Culture",wh_trend,Deteriorating -> nan
+80,198303,"Ibiza, Biodiversity and Culture",language,1 -> 3
+81,26689,Canadian Rocky Mountain Parks,outlook,Good with some concerns -> Significant Concern
+82,26689,Canadian Rocky Mountain Parks,overall_threat,Low Threat -> High Threat
+83,26689,Canadian Rocky Mountain Parks,current_threat,Low Threat -> High Threat
+84,26689,Canadian Rocky Mountain Parks,prot_mgmt,Effective -> Serious Concern
+85,26689,Canadian Rocky Mountain Parks,wh_value,Good -> High Concern
+86,26689,Canadian Rocky Mountain Parks,wh_trend,Stable -> Deteriorating
+87,26689,Canadian Rocky Mountain Parks,biodiv_value,Low Concern -> High Concern
+88,26689,Canadian Rocky Mountain Parks,biodiv_trend,Stable -> Deteriorating
+89,17758,Dja Faunal Reserve,outlook,Critical -> nan
+90,17758,Dja Faunal Reserve,overall_threat,Very High Threat -> nan
+91,17758,Dja Faunal Reserve,current_threat,High Threat -> nan
+92,17758,Dja Faunal Reserve,potential_threat,Very High Threat -> nan
+93,17758,Dja Faunal Reserve,prot_mgmt,Some Concern -> nan
+94,17758,Dja Faunal Reserve,wh_value,High Concern -> nan
+95,17758,Dja Faunal Reserve,wh_trend,Deteriorating -> nan
+96,17758,Dja Faunal Reserve,language,1 -> 2
+97,902482,Shiretoko,biodiv_value,nan -> Data Deficient
+98,902482,Shiretoko,biodiv_trend,nan -> Data Deficient
+99,68917,Tubbataha Reefs Natural Park,outlook,Good with some concerns -> Good
+100,900631,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,current_threat,Low Threat -> High Threat
+101,900631,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,potential_threat,High Threat -> Low Threat
+102,900631,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,wh_trend,Data Deficient -> Stable
+103,4999,Tassili n'Ajjer,overall_threat,High Threat -> Data Deficient
+104,4999,Tassili n'Ajjer,current_threat,High Threat -> Data Deficient
+105,4999,Tassili n'Ajjer,wh_value,Low Concern -> Good
+106,168239,New Zealand Sub-Antarctic Islands,wh_trend,Improving -> Stable
+107,17760,Manú National Park,biodiv_value,nan -> High Concern
+108,17760,Manú National Park,biodiv_trend,nan -> Deteriorating
+109,61610,Los Katíos National Park,prot_mgmt,Serious Concern -> Some Concern
+110,61610,Los Katíos National Park,biodiv_value,nan -> High Concern
+111,61610,Los Katíos National Park,biodiv_trend,nan -> Stable
+112,61612,Canaima National Park,overall_threat,High Threat -> Very High Threat
+113,61612,Canaima National Park,current_threat,High Threat -> Very High Threat
+114,61612,Canaima National Park,potential_threat,Very High Threat -> Data Deficient
+115,61612,Canaima National Park,biodiv_value,High Concern -> Data Deficient
+116,220297,Pantanal Conservation Complex,prot_mgmt,Some Concern -> Serious Concern
+117,61609,Bwindi Impenetrable National Park,biodiv_value,nan -> Data Deficient
+118,61609,Bwindi Impenetrable National Park,biodiv_trend,nan -> Stable
+119,67725,Komodo National Park,wh_trend,Stable -> Deteriorating
+120,902483,Vredefort Dome,overall_threat,High Threat -> Low Threat
+121,902483,Vredefort Dome,potential_threat,High Threat -> Low Threat
+122,93291,Carlsbad Caverns National Park,biodiv_value,High Concern -> Low Concern
+123,93291,Carlsbad Caverns National Park,biodiv_trend,Data Deficient -> Improving
+124,168241,Golden Mountains of Altai,biodiv_value,Low Concern -> Data Deficient
+125,168241,Golden Mountains of Altai,biodiv_trend,Stable -> Data Deficient
+126,902479,Coiba National Park and its Special Zone of Marine Protection,overall_threat,High Threat -> Very High Threat
+127,902479,Coiba National Park and its Special Zone of Marine Protection,current_threat,High Threat -> Very High Threat
+128,198299,Puerto-Princesa Subterranean River National Park,potential_threat,High Threat -> Low Threat
+129,2005,Nahanni National Park,overall_threat,Low Threat -> High Threat
+130,2005,Nahanni National Park,prot_mgmt,Effective -> Some Concern
+131,555547990,Western Ghats,potential_threat,Low Threat -> High Threat
+132,900633,Swiss Alps Jungfrau-Aletsch,overall_threat,Very Low Threat -> Low Threat
+133,900633,Swiss Alps Jungfrau-Aletsch,current_threat,Very Low Threat -> High Threat
+134,900633,Swiss Alps Jungfrau-Aletsch,potential_threat,Very Low Threat -> Low Threat
+135,900633,Swiss Alps Jungfrau-Aletsch,prot_mgmt,Highly Effective -> Effective
+136,900633,Swiss Alps Jungfrau-Aletsch,biodiv_value,Data Deficient -> Low Concern
+137,900633,Swiss Alps Jungfrau-Aletsch,biodiv_trend,Data Deficient -> Stable
+138,2004,Dinosaur Provincial Park,potential_threat,Low Threat -> Very Low Threat
+139,2004,Dinosaur Provincial Park,wh_value,Low Concern -> Good
+140,2004,Dinosaur Provincial Park,biodiv_value,Low Concern -> Good
+141,2013,Yellowstone National Park,potential_threat,High Threat -> Low Threat
+142,2013,Yellowstone National Park,biodiv_value,High Concern -> Good
+143,2013,Yellowstone National Park,biodiv_trend,Data Deficient -> Improving
+144,198294,Miguasha National Park,potential_threat,Very Low Threat -> Low Threat
+145,12896,Henderson Island,prot_mgmt,Effective -> Some Concern
+146,10902,Wood Buffalo National Park,outlook,Good with some concerns -> Significant Concern
+147,10902,Wood Buffalo National Park,overall_threat,Low Threat -> High Threat
+148,10902,Wood Buffalo National Park,potential_threat,Low Threat -> High Threat
+149,10902,Wood Buffalo National Park,prot_mgmt,Effective -> Serious Concern
+150,10902,Wood Buffalo National Park,wh_value,Low Concern -> High Concern
+151,10902,Wood Buffalo National Park,wh_trend,Stable -> Deteriorating
+152,2577,Mammoth Cave National Park,wh_value,Low Concern -> High Concern
+153,198291,Península Valdés,outlook,Good with some concerns -> Significant Concern
+154,198291,Península Valdés,overall_threat,Low Threat -> High Threat
+155,198291,Península Valdés,current_threat,Low Threat -> High Threat
+156,198291,Península Valdés,prot_mgmt,Some Concern -> Serious Concern
+157,198291,Península Valdés,wh_value,Low Concern -> High Concern
+158,198291,Península Valdés,wh_trend,Stable -> Deteriorating
+159,93295,Waterton Glacier International Peace Park,biodiv_value,nan -> Low Concern
+160,93295,Waterton Glacier International Peace Park,biodiv_trend,nan -> Improving
+161,12207,Giant's Causeway and Causeway Coast,wh_trend,Deteriorating -> Stable
+162,900629,Central Sikhote-Alin,outlook,Significant Concern -> Good with some concerns
+163,900629,Central Sikhote-Alin,overall_threat,High Threat -> Low Threat
+164,900629,Central Sikhote-Alin,current_threat,Very High Threat -> High Threat
+165,900629,Central Sikhote-Alin,prot_mgmt,Some Concern -> Highly Effective
+166,900629,Central Sikhote-Alin,wh_value,High Concern -> Low Concern
+167,900629,Central Sikhote-Alin,wh_trend,Deteriorating -> Stable
+168,17759,Gros Morne National Park,biodiv_trend,Data Deficient -> Stable
